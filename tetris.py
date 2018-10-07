@@ -165,11 +165,11 @@ PIECES = {'S':S_SHAPE_TEMPLATE,
           'T':T_SHAPE_TEMPLATE}
 
 PIECECOLORS = {'S':1,
-               'Z':4,
-               'J':3,
+               'Z':2,
+               'J':0,
                'L':5,
-               'I':2,
-               'O':0,
+               'I':4,
+               'O':3,
                'T':6}
 
 
